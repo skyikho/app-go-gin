@@ -1,0 +1,1 @@
+1. Application app-go-gin has been successfully deployed!!
